@@ -1,0 +1,33 @@
+
+.foto-logo {
+    height: 60px;
+}
+
+.cuadros {
+    height: 30px;
+}
+
+.fotos-masu {
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+}
+
+.div-fotos-masu {
+    margin-left:55px;
+}
+
+.div-masu {
+    height: 400px;
+    width: 400px;
+    padding: 50px;
+    margin-bottom: 60px;
+}
+
+.card-texto {
+    display: flex;
+}
+
+.fecha-card-texto {
+    margin-left: 0px;
+}
